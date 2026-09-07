@@ -15,7 +15,7 @@ int main() {
     printf("Enter Analyst Name: ");
     fgets(analyst,50,stdin); 
 
-    printf("Enter Number of Affected Systems: ");
+    printf("Enter Number of Affected Systems : ");
     scanf("%f", &affected);
 
     printf("Enter Estimated Recovery Cost per system: ");
